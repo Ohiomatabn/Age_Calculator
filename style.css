@@ -48,6 +48,7 @@ button{
   font-weight: bold;
   float: right;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .result{
